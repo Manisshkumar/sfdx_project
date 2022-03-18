@@ -1,0 +1,18 @@
+{
+    "packageDirectories": [
+        {
+            "path": "dreamhouse-proj",
+            "package": "dreamhouse-app-pack1",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "name": "sfdx-source",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "52.0",
+    "packageAliases": {
+        "dreamhouse-app-pack1": "0Ho5j000000TNE4CAO"
+    }
+}
